@@ -14,6 +14,13 @@
     </option>
     <option name="moduleParameters">
       <map>
+        <entry key="$PROJECT_DIR$/.idea/LAB7 - Associacao.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../../../../Matérias UFV/4º PERÍODO/IC/.idea/IC.iml">
           <value>
             <JupyterConnectionParameters>
